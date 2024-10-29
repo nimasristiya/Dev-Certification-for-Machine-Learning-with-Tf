@@ -6,8 +6,11 @@ Welcome to Dev Certification for Machine Learning with Tensorflow (DCML) Prepara
 ### The following 3 packages are:
 
 Simulation Package A: consists of 5 machine learning problems. 
+
 Simulation Package B: consists of 5 machine learning problems. The datasets used in Simulation B are different from the dataset in Simulation A.
+
 Simulation Package C: consists of 5 machine learning problems. The datasets used in Simulation C are different from the dataset in Simulations A and B.
+
 In each simulation, the exam will test you on these set of skills (please refer to the Candidate Handbook for the details of each category):
 
 ### Tensorflow developer skills
